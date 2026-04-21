@@ -1,6 +1,6 @@
 #7天死亡模组-管理
 #七日杀Mod启动器
-[七日杀中文网]()
+[七日杀中文网](https://pan.quark.cn/s/f73969f8b178)
 ## 这是什么？
 
 这是一个为《七日杀》玩家设计的 Mod 启动器工具，支持：
@@ -8,6 +8,7 @@
 - Mod 启用/禁用（跨分区移动，不占双倍空间）
 - 游戏目录自动定位
 - Mod 网站快速跳转
+ 支持英语
 
 ## 本仓库有可能不提供 Mod 文件
 
@@ -16,6 +17,7 @@
 - [七日杀中文网](https://www.7risha.com/)
 - [Nexus Mods（国际版）](https://www.nexusmods.com/7daystodie)
 - [3DM Mod站](https://dl.3dmgame.com/)
+- [下载启动器](https://pan.quark.cn/s/f73969f8b178)
 
 ## 如何使用
 
