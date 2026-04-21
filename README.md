@@ -54,8 +54,8 @@ Features will be added gradually. Please check the Releases page for updates.
 
 
 
-- [ ]改进模组移动失败时的错误提示信息
-- [ ]修复因文件夹名称中包含特殊字符而导致的扫描错误
+- [ ] 改进模组移动失败时的错误提示信息
+- [ ] 修复因文件夹名称中包含特殊字符而导致的扫描错误
 
 ##预计时间表
 
