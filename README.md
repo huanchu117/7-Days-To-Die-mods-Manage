@@ -63,7 +63,7 @@ Features will be added gradually. Please check the Releases page for updates.
 
 ## 已知问题修复
 
-- [ ]优化Mod移动失败时的错误提示
+- [ ] 优化Mod移动失败时的错误提示
 - [ ] 修复某些特殊字符文件夹导致的扫描错误
 
 ## 预计时间
