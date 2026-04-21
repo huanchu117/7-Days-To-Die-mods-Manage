@@ -7,7 +7,8 @@
 - Mod 启用/禁用（跨分区移动，不占双倍空间）
 - 游戏目录自动定位
 - Mod 网站快速跳转
- 支持英语
+- Support English Language
+  
 
 ## 本仓库有可能不提供 Mod 文件
 
