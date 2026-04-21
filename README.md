@@ -7,7 +7,68 @@
 - Mod 启用/禁用（跨分区移动，不占双倍空间）
 - 游戏目录自动定位
 - Mod 网站快速跳转
-- Support English Language
+-支持英语
+# 即将更新
+
+## 计划中的新功能
+
+- [ ] 远程自动更新（软件内直接升级，无需手动下载）
+- [ ] Mod 排序（按名称、修改时间、大小）
+- [ ] Mod 搜索（快速查找已安装的 Mod）
+- [ ] Mod 详情查看（显示版本、作者、说明）
+- [ ] 批量禁用/启用（全选、反选、一键操作）
+- [ ] 一键备份Mods文件夹（打包成zip）
+- [ ]一键还原Mods文件夹（从备份恢复）
+- [ ] 启动参数设置（窗口模式、分辨率等）
+- [ ]游戏版本检测（提示Mod兼容性）
+- [ ] 最小化到系统托盘
+- [ ] 开机自启选项
+- [ ] 更多Mod网站支持
+- [ ] 界面主题切换（深色/浅色/自定义）
+# Upcoming Updates
+
+## Planned Features
+
+- [ ] Remote auto-update (upgrade directly within the app, no manual download)
+- [ ] Mod sorting (by name, modification date, size)
+- [ ] Mod search (quickly find installed Mods)
+- [ ] Mod details view (show version, author, description)
+- [ ] Batch disable/enable (select all, invert, one-click operation)
+- [ ] One-click backup Mods folder (zip archive)
+- [ ] One-click restore Mods folder (restore from backup)
+- [ ] Launch parameters settings (window mode, resolution, etc.)
+- [ ] Game version detection (check Mod compatibility)
+- [ ] Minimize to system tray
+- [ ] Auto-start on boot option
+- [ ] More Mod websites support
+- [ ] Theme switching (dark/light/custom)
+
+## Known Issues to Fix
+
+- [ ] Improve error message when Mod move fails
+- [ ] Fix scanning errors caused by special characters in folder names
+
+## Estimated Timeline
+
+Features will be added gradually. Please check the Releases page for updates.
+
+
+
+- [ ]改进模组移动失败时的错误提示信息
+- [ ]修复因文件夹名称中包含特殊字符而导致的扫描错误
+
+##预计时间表
+
+功能将逐步添加。请查看“发布”页面以获取最新信息。
+
+## 已知问题修复
+
+- [ ]优化Mod移动失败时的错误提示
+- [ ] 修复某些特殊字符文件夹导致的扫描错误
+
+## 预计时间
+
+功能将逐步添加，请关注 Releases 页面获取更新。
   
 
 ## 本仓库有可能不提供 Mod 文件
