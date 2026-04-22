@@ -83,7 +83,7 @@ Features will be added gradually. Please check the Releases page for updates.
 - [下载启动器2.0.0](https://pan.quark.cn/s/f73969f8b178)
 - [下载启动器2.0.1](https://pan.quark.cn/s/56bed0b41d3c)
 
-## 如何使用https://pan.quark.cn/s/56bed0b41d3c
+## 如何使用
 
 1. 下载 Releases 中的 `七日杀启动器 Setup.exe`
 2. 安装后启动，点击“设置”选择游戏目录
