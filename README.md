@@ -12,8 +12,8 @@
 
 ## 计划中的新功能
 
-- [ ] 远程自动更新（软件内直接升级，无需手动下载）
 - [ ] Mod 排序（按名称、修改时间、大小）
+- [ ] 检查游戏的完整（正在搞）
 - [ ] Mod 搜索（快速查找已安装的 Mod）
 - [ ] Mod 详情查看（显示版本、作者、说明）
 - [ ] 批量禁用/启用（全选、反选、一键操作）
@@ -25,12 +25,13 @@
 - [ ] 开机自启选项
 - [ ] 更多Mod网站支持
 - [ ] 界面主题切换（深色/浅色/自定义）
+- [ ] 日历缓存清理记忆功能✓
 # Upcoming Updates
 
 ## Planned Features
 
-- [ ] Remote auto-update (upgrade directly within the app, no manual download)
 - [ ] Mod sorting (by name, modification date, size)
+- [ ] Verify Game Integrity（In Progress）
 - [ ] Mod search (quickly find installed Mods)
 - [ ] Mod details view (show version, author, description)
 - [ ] Batch disable/enable (select all, invert, one-click operation)
@@ -42,6 +43,7 @@
 - [ ] Auto-start on boot option
 - [ ] More Mod websites support
 - [ ] Theme switching (dark/light/custom)
+- [ ] English Version✓ 
 
 ## Known Issues to Fix
 
@@ -78,9 +80,10 @@ Features will be added gradually. Please check the Releases page for updates.
 - [七日杀中文网](https://www.7risha.com/)
 - [Nexus Mods（国际版）](https://www.nexusmods.com/7daystodie)
 - [3DM Mod站](https://dl.3dmgame.com/)
-- [下载启动器](https://pan.quark.cn/s/f73969f8b178)
+- [下载启动器2.0.0](https://pan.quark.cn/s/f73969f8b178)
+- [下载启动器2.0.1](https://pan.quark.cn/s/56bed0b41d3c)
 
-## 如何使用
+## 如何使用https://pan.quark.cn/s/56bed0b41d3c
 
 1. 下载 Releases 中的 `七日杀启动器 Setup.exe`
 2. 安装后启动，点击“设置”选择游戏目录
